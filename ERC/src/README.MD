@@ -1,0 +1,1 @@
+***This a smart contract based on ERC-721 token standard**
